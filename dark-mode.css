@@ -3,9 +3,15 @@
   color: #ffffff;
 }
 
+
 [data-theme="dark"] h1 {
+  color:#90a0db !important;
+}
+
+[data-theme="dark"] h2 {
   color:#7289DA !important;
 }
+
 
 [data-theme="dark"] tr {
   color: #fffde0 !important;
