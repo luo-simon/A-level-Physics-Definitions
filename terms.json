@@ -1,0 +1,664 @@
+{
+    "Mechanics": [
+        {
+            "term": "Acceleration",
+            "definition": "Rate of change of velocity"
+        },
+        {
+            "term": "Braking distance of car",
+            "definition": "The distance travelled by the car after the brakes are applied until the car stops"
+        },
+        {
+            "term": "Braking force",
+            "definition": "The fritctional force applied by the road on the tyre (in the opposite direction to the motion of the vehicle, that  brings the vehicle to rest)"
+        },
+        {
+            "term": "Centre of Gravity",
+            "definition": "The point on the object where the total weight (appears) to act"
+        },
+        {
+            "term": "Conditions for Mechanical Equiliibrium",
+            "definition": "Resultant force = 0, Resultant torque = 0"
+        },
+        {
+            "term": "Couple",
+            "definition": "Two equal but opposite forces acting along different lines"
+        },
+        {
+            "term": "Density",
+            "definition": "Density = Mass/Volume"
+        },
+        {
+            "term": "Displacement",
+            "definition": "A vector directed from initial position to final positions having magnitude equal to the distance between those points"
+        },
+        {
+            "term": "Elastic collision",
+            "definition": "KE and momentum are conserved"
+        },
+        {
+            "term": "Impulse of a force",
+            "definition": "Average force applied multiplied by the time over which it acts"
+        },
+        {
+            "term": "Inelastic collision",
+            "definition": "Momentum is conserved. KE after the collision is less than KE before the collision"
+        },
+        {
+            "term": "Joule",
+            "definition": "1J is the work done by a force of 1N which acts over a distance 1m in the direction of the force"
+        },
+        {
+            "term": "Linear momentum",
+            "definition": "The linear momentum of a body is the \"product of mass and velocity"
+        },
+        {
+            "term": "Moment of a force",
+            "definition": "Moment = force x perpendicular distance from pivot"
+        },
+        {
+            "term": "Newton",
+            "definition": "1N is the force required to cause a mass of 1kg to have an acceleration of 1m/s^2"
+        },
+        {
+            "term": "Newton's First Law",
+            "definition": "A body will remain at rest or continue to move with constant velocity unless acted on by a resultant force"
+        },
+        {
+            "term": "Newton's Second Law",
+            "definition": "The resultant force is directly proportional to the rate of change of momentum"
+        },
+        {
+            "term": "Newton's Third Law",
+            "definition": "When an object A exerts a force on an object B, object B will exert a force of equal magnitude, of the same nature but opposite in direction on object A"
+        },
+        {
+            "term": "Power",
+            "definition": "Rate of work done. Energy transferred per unit time"
+        },
+        {
+            "term": "Pressure",
+            "definition": "Pressure = Force/Area"
+        },
+        {
+            "term": "Principle of conservation of energy",
+            "definition": "Energy cannot be created or destroyed; it can only be transformed. Hence, the total energy of a system remains constant."
+        },
+        {
+            "term": "Principle of conservation of momentum",
+            "definition": "The total momentum before a collision is equal to the total momentum after the collision provided no external forces act on the system."
+        },
+        {
+            "term": "Principle of moments",
+            "definition": "The sum of the clockwise moments must equal the sum of the anti-clockwise moments about any point in equilibrium"
+        },
+        {
+            "term": "Resultant/net force",
+            "definition": "The vector sum of all the individual forces acting on an object"
+        },
+        {
+            "term": "Stopping distance of a car",
+            "definition": "Thinking distance + Braking distance"
+        },
+        {
+            "term": "Torque of a couple",
+            "definition": "One of forces x perpendicular distance between the forces"
+        },
+        {
+            "term": "Thinking distance",
+            "definition": "The distance travelled by the car in the time taken by the driver to react"
+        },
+        {
+            "term": "Vector quantity",
+            "definition": "A quantity with magnitude and direction"
+        },
+        {
+            "term": "Velocity",
+            "definition": "Rate of change of displacement"
+        },
+        {
+            "term": "Watt",
+            "definition": "Watt is the power used when one joule of work is done per second"
+        },
+        {
+            "term": "Work done by a force",
+            "definition": "Force x distance moved in the direction of the force"
+        }
+    ],
+    "Materials": [
+        {
+            "term": "Brittle",
+            "definition": "Has no plastic region - breaks at its elastic limit"
+        },
+        {
+            "term": "Ductile",
+            "definition": "Large plastic region - can be drawn into a wire"
+        },
+        {
+            "term": "Elastic Limit",
+            "definition": "When exceeded, a permanent deformation will remain when the stress is removed"
+        },
+        {
+            "term": "Hooke's Law",
+            "definition": "Extension is proportional to the force applied up to the limit of proportionality"
+        },
+        {
+            "term": "Plastic Deformation",
+            "definition": "The material doesn't return to its original length when the stress is removed"
+        },
+        {
+            "term": "Stiff",
+            "definition": "A stiff material has a high/large Young Modulus"
+        },
+        {
+            "term": "Tensile Strain",
+            "definition": "Extension per unit original length"
+        },
+        {
+            "term": "Tensile Stress",
+            "definition": "Tensile force per unit cross-sectional area perpendicular to the force"
+        },
+        {
+            "term": "Strong",
+            "definition": "Can take a high (maximum) stress before breaking"
+        },
+        {
+            "term": "Young modulus",
+            "definition": "The ratio of tensile stress to tensile strain when Hooke's Law is obeyed"
+        },
+        {
+            "term": "Electricity",
+            "definition": ""
+        },
+        {
+            "term": "Electromotive force",
+            "definition": "Electrical energy transformed from other forms per unit charge"
+        },
+        {
+            "term": "Electron volt (eV)",
+            "definition": "The energy acquired by an electron accelerated through a p.d. of 1V"
+        },
+        {
+            "term": "Mean Drift Velocity",
+            "definition": "The average displacement travelled by the electrons along the wire per unit time opposite to the direction of conventional current flow"
+        },
+        {
+            "term": "Internal resistance",
+            "definition": "The loss of voltage in the battery per unit current. The resistance of the internal components of a battery."
+        },
+        {
+            "term": "Kilowatt-hour",
+            "definition": "The energy transferred when a machine with a power of 1kW operates for a time of 1 hour"
+        },
+        {
+            "term": "Kirchoff's First Law",
+            "definition": "The total current into a junction equals the total current out (charge is conserved)"
+        },
+        {
+            "term": "Kirchoff's Second Law",
+            "definition": "The sum of e.m.f.s equals the sum of the p.d.s around a closed loop in a circuit (energy is conserved)"
+        },
+        {
+            "term": "Ohm's Law",
+            "definition": "For a conductor at constant temperature, the current flowing through the conductor is directly proportional to the potential difference across it"
+        },
+        {
+            "term": "Potential difference",
+            "definition": "The energy transferred per unit charge from electrical to other forms"
+        },
+        {
+            "term": "Power",
+            "definition": "Energy transferred per unit time"
+        },
+        {
+            "term": "Resistance",
+            "definition": "Potential difference/current"
+        },
+        {
+            "term": "Resistivity",
+            "definition": "(Resistance x Cross-sectional Area)/Length of wire"
+        }
+    ],
+    "Electricity": [
+        {
+            "term": "Electromotive force",
+            "definition": "Electrical energy transformed from other forms per unit charge"
+        },
+        {
+            "term": "Electron volt (eV)",
+            "definition": "The energy acquired by an electron accelerated through a p.d. of 1V"
+        },
+        {
+            "term": "Mean Drift Velocity",
+            "definition": "The average displacement travelled by the electrons along the wire per unit time opposite to the direction of conventional current flow"
+        },
+        {
+            "term": "Internal resistance",
+            "definition": "The loss of voltage in the battery per unit current. The resistance of the internal components of a battery."
+        },
+        {
+            "term": "Kilowatt-hour",
+            "definition": "The energy transferred when a machine with a power of 1kW operates for a time of 1 hour"
+        },
+        {
+            "term": "Kirchoff's First Law",
+            "definition": "The total current into a junction equals the total current out (charge is conserved)"
+        },
+        {
+            "term": "Kirchoff's Second Law",
+            "definition": "The sum of e.m.f.s equals the sum of the p.d.s around a closed loop in a circuit (energy is conserved)"
+        },
+        {
+            "term": "Ohm's Law",
+            "definition": "For a conductor at constant temperature, the current flowing through the conductor is directly proportional to the potential difference across it"
+        },
+        {
+            "term": "Potential difference",
+            "definition": "The energy transferred per unit charge from electrical to other forms"
+        },
+        {
+            "term": "Power",
+            "definition": "Energy transferred per unit time"
+        },
+        {
+            "term": "Resistance",
+            "definition": "Potential difference/current"
+        },
+        {
+            "term": "Resistivity",
+            "definition": "(Resistance x Cross-sectional Area)/Length of wire"
+        }
+    ],
+    "Waves": [
+        {
+            "term": "Amplitude (wave motion)",
+            "definition": "Maximum displacement of a wave"
+        },
+        {
+            "term": "Antinode (of a standing wave)",
+            "definition": "An antinode occurs on a standing wave at a point where the amplitude of the standing wave takes its maximum value"
+        },
+        {
+            "term": "Coherence",
+            "definition": "Waves are coherent if they have the same frequency and there is a constant phase difference between them"
+        },
+        {
+            "term": "Interference",
+            "definition": "Two waves that meet at a point superpose resulting in the resultant (overall) displacement/intensity being changed from that of either of the waves individually"
+        },
+        {
+            "term": "Continuous Spectrum",
+            "definition": "All wavelengths are present (in the radiation)"
+        },
+        {
+            "term": "Diffraction of a wave",
+            "definition": "Wavefronts spread out after passing through a gap or around an obstacle"
+        },
+        {
+            "term": "Displacement (wave)",
+            "definition": "(Any) distance moved from the equilibrium position of a point/particle on a wave"
+        },
+        {
+            "term": "Frequency",
+            "definition": "Thre number of waves passing a point per unity time"
+        },
+        {
+            "term": "Intensity",
+            "definition": "Incident power per unit cross-sectional area"
+        },
+        {
+            "term": "Longitudinal wave",
+            "definition": "The displacement of particles is parallel to the direction of energy transfer"
+        },
+        {
+            "term": "Node",
+            "definition": "A node occurs at a point on a standing wave where the amplitude (and hence displacement) is always zero"
+        },
+        {
+            "term": "Phase difference",
+            "definition": "Phase difference is an angular measure of how far one point on a wave is through the cycle when compared with another point on the same wave, or to another wave of the same frequency"
+        },
+        {
+            "term": "Plane polarised wave",
+            "definition": "A transverse wave where the oscillations are confined to a single plane"
+        },
+        {
+            "term": "Power",
+            "definition": "Energy transferred per unit time"
+        },
+        {
+            "term": "Principle of Superposition of Waves",
+            "definition": "When two waves overlap, they superpose with the resultant displacement at a given point being equal to the vector sum of the displacements of the two individual waves at that point"
+        },
+        {
+            "term": "Progressive wave",
+            "definition": "A progressive wave is the transfer of energy without the transfer of matter occuring via oscillations"
+        },
+        {
+            "term": "Transverse wave",
+            "definition": "The displacement of particles is perpendicular to the direction of energy transfer"
+        },
+        {
+            "term": "Wavelength",
+            "definition": "The minimum distance between two particles on the wave which have the same displacement and the same velocity at the same time"
+        }
+    ],
+    "Quantum": [
+        {
+            "term": "Continuous Spectrum",
+            "definition": "All wavelengths are present (in the radiation)"
+        },
+        {
+            "term": "de Broglie wavelength of an electron",
+            "definition": "Electrons show wavelike properties and the elctron's wavelength depends on its momentum according to \\lambda=h/p, where \\lambda is the wavelength, p the momentum and h is Planck's constant"
+        },
+        {
+            "term": "Electron volt (eV)",
+            "definition": "The energy acquired by an electron accelerated through a p.d. of 1V"
+        },
+        {
+            "term": "Energy Level",
+            "definition": "An allowed (quantised) energy state of an electron in an atom"
+        },
+        {
+            "term": "Intensity",
+            "definition": "Incident power per unit cross-sectional area"
+        },
+        {
+            "term": "(Emission) Line spectrum",
+            "definition": "Light emitted from excited isolated atoms produces a line spectrum which consists of a series of distinct coloured lines against a dark background"
+        },
+        {
+            "term": "(Absorption) Line spectrum",
+            "definition": "Light absorbed by isolated atoms produces a line spectrum which consists of a series of distinct dark lines against a background of a continuous spectrum"
+        },
+        {
+            "term": "Photon",
+            "definition": "A quantum of electromagnetic energy having E=hf, where E is the energy of the photon, f is its frequency and h is Planck's constant"
+        },
+        {
+            "term": "Photoelectric effect",
+            "definition": "Emission of electrons from a metal surface when photons are incident on the surface"
+        },
+        {
+            "term": "Threshold Frequency",
+            "definition": "The minimum frequency of incident light required for (photo)electrons to be emitted from a metal surface"
+        },
+        {
+            "term": "Work function of a metal",
+            "definition": "The minimum energy required to remove an electron from the surface of a metal"
+        }
+    ],
+    "Circular Motion & Oscillations": [
+        {
+            "term": "Amplitude (SHM)",
+            "definition": "Maximum displacement"
+        },
+        {
+            "term": "Angular frequency (SHM)",
+            "definition": "2\\pi x frequency"
+        },
+        {
+            "term": "Angular velocity (circular motion)",
+            "definition": "Rate of change of angular displacement"
+        },
+        {
+            "term": "Centripetal acceleration",
+            "definition": "An acceleration that will cause the body to follow a circular path. The acceleration is perpendicular to the velocity of the body."
+        },
+        {
+            "term": "Centripetal force",
+            "definition": "A resultant force which acts on a body causing it to follow a circular path. The force acts perpendicular to the velocity of the body."
+        },
+        {
+            "term": "Condition for uniform circular motion",
+            "definition": "The resultant force acts perpendicular to the velocity"
+        },
+        {
+            "term": "Critical Damping",
+            "definition": "When a system returns to equilibrium in the shortest possible time without oscillating"
+        },
+        {
+            "term": "Displacement (SHM)",
+            "definition": "The distance (and direction) of the body from the equilibrium position"
+        },
+        {
+            "term": "Equilibrium position (SHM)",
+            "definition": "The equilibrium position is the point where the resultant force on the oscillator is zero"
+        },
+        {
+            "term": "Frequency (SHM)",
+            "definition": "Number of oscillations per unit time"
+        },
+        {
+            "term": "Geostationary orbit",
+            "definition": "An orbit with a period of 24 hours."
+        },
+        {
+            "term": "Period (circular motion)",
+            "definition": "The time taken for an object to make one complete revolution"
+        },
+        {
+            "term": "Period (SHM)",
+            "definition": "The time taken for an object to complete one full oscillation"
+        },
+        {
+            "term": "Radian",
+            "definition": "One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius of the circle"
+        },
+        {
+            "term": "Simple harmonic motino",
+            "definition": "A body executes simple harmonic motion when its acceleration is directly proportional to its displacement from its equilibrium position and is directed towards the equilibrium position"
+        }
+    ],
+    "Thermal": [
+        {
+            "term": "Boyle's Law",
+            "definition": "For a fixed mass of gass at constant temperature the pressure of the gas is inversely proportional to its volume"
+        },
+        {
+            "term": "Internal energy",
+            "definition": "The sum of random distribution of potential and kinetic energies of all the molecules"
+        },
+        {
+            "term": "Latent heat of fusion",
+            "definition": "The energy supplied to melt a given quantity of a solid substance to liquid"
+        },
+        {
+            "term": "Latent heat of vaporisation",
+            "definition": "The energy supplied to boil given quantity of a liquid substance to gas"
+        },
+        {
+            "term": "Specific heat capacity",
+            "definition": "The energy required to heat 1kg of a substance by 1K without a change of state"
+        },
+        {
+            "term": "Thermal equilibrium",
+            "definition": "Two bodies are in thermal equilibrium if when placed in thermal contact there is not net flow of heat energy between them"
+        }
+    ],
+    "Gravitational Fields": [
+        {
+            "term": "Geostationary orbit",
+            "definition": "An orbit with a period of 24 hours"
+        },
+        {
+            "term": "Gravitational field strength",
+            "definition": "Gravitational force per unit mass at a point in space"
+        },
+        {
+            "term": "Gravitational potential",
+            "definition": "The work done per unit mass in moving a mass from infinity to a point in a gravitational field"
+        },
+        {
+            "term": "Gravitational potential energy",
+            "definition": "The work done in moving a mass from infinity to a point in a gravitational field"
+        },
+        {
+            "term": "Kepler's Third Law",
+            "definition": "The cube of the planet's distance from the sun is proportional to the square of the orbital period."
+        },
+        {
+            "term": "Newton's Law of Gravitation",
+            "definition": "The force of attraction between two given particles is inversely proportional to the square of their separation and directly proportional to the product of their masses"
+        },
+        {
+            "term": "Uniform (gravitational) fields",
+            "definition": "The direction and strength of the field is constant throughout the considered region of space"
+        }
+    ],
+    "Electric Fields and Capacitors": [
+        {
+            "term": "Capacitance",
+            "definition": "Charge stored on a capacitor per unit voltage applied across it"
+        },
+        {
+            "term": "Coulomb's Law",
+            "definition": "The force between two point charges is proportional to the product of the charges and inversely proportional to the square of the distance between them"
+        },
+        {
+            "term": "Electric Field Strength",
+            "definition": "Electrical force per unit positive charge"
+        },
+        {
+            "term": "Electric potential",
+            "definition": "The work done per unit positive charge in bringing a charge from infinity to a point in an electric field"
+        },
+        {
+            "term": "Electric potential energy",
+            "definition": "The work done in bringing a charge from infinity to a point in an electric field"
+        },
+        {
+            "term": "Farad",
+            "definition": "A capacitor has a capacitance of 1 farad when it can store 1 coulomb of charge per volt"
+        },
+        {
+            "term": "Time Constant (RC)",
+            "definition": "The time taken for the charge/current/p.d. to decay to 1/e of its initial value when a capacitor discharges"
+        }
+    ],
+    "Magnetic Fields & Electromagnetism": [
+        {
+            "term": "Faraday's Law",
+            "definition": "The induced e.m.f. is proportional to the rate of change of magnetic flux linkage"
+        },
+        {
+            "term": "Lenz' Law",
+            "definition": "A magnetic flux density produced by a current from an induced e.m.f. will always be such that it opposes the change in magnetic flux linkage that created it"
+        },
+        {
+            "term": "Magnetic Flux",
+            "definition": "The magnetic flux \\phi = BA, where B is the magnetic flux density and A is the area normal to the field"
+        },
+        {
+            "term": "Magnetic Flux Density",
+            "definition": "B = F/ILsin\\theta where F is the force on a wire of length L, carrying current I, at an angle \\theta to the magnetic flux density B"
+        },
+        {
+            "term": "Magnetic Flux Linkage",
+            "definition": "\\Phi = BAN, where B is the magnetic flux density, A is the area normal to the field and N is the number of turns on the coil"
+        },
+        {
+            "term": "Tesla",
+            "definition": "1T is the magnetic field strenght that results in a wire of 1m, carrying a current of 1A that is perpendicular to a uniform magnetic field experiencing a force of 1N"
+        },
+        {
+            "term": "Weber",
+            "definition": "A magnetic field of flux density 1T passing normally through an area of 1m^2 produces a magnetic flux equal to 1Wb"
+        }
+    ],
+    "Nuclear Physics": [
+        {
+            "term": "Activity",
+            "definition": "Rate of decay of radioactive nuclei"
+        },
+        {
+            "term": "Binding Energy",
+            "definition": "The minimum energy needed to completely separate all the nucleons in a nucleus"
+        },
+        {
+            "term": "Compton Scattering",
+            "definition": "The interaction of a photon with an orbital electron in an atom resulting in the electron being ejected from the atom and the photon being scatterd at a lower energy"
+        },
+        {
+            "term": "Decay Constant",
+            "definition": "The probability of decay of a nucleus per unit time"
+        },
+        {
+            "term": "Fundamental Particle",
+            "definition": "Particles that cannot be broken down into smaller/simpler components"
+        },
+        {
+            "term": "Half-Life",
+            "definition": "The average time taken for the activity/number of unstable nuclei of a radioactive source to decrease to one half of its original value"
+        },
+        {
+            "term": "Isotope",
+            "definition": "(Two) atoms of the same element (hence with the same number of protons) but with different numbers of neutrons to each other"
+        },
+        {
+            "term": "Nuclide",
+            "definition": "A specific nucleus, characterised by a certain number of protons and neutrons"
+        },
+        {
+            "term": "Pair Production",
+            "definition": "The interaction of a photon with the nucleus of an atom resulting in the energy of the photon producing an electron-position pair"
+        }
+    ],
+    "Astrophysics": [
+        {
+            "term": "Astronomical Unit",
+            "definition": "The average distance from the centre of the Earth to the centre of the Sun. 1AU=1.5x10^11m"
+        },
+        {
+            "term": "Cosmological Principles",
+            "definition": "The universe is homogeneous, isotropic and has universal laws of physics"
+        },
+        {
+            "term": "Doppler Effect",
+            "definition": "The change in frequency/wavelength of a wave as detected by a received in relative motion to a source"
+        },
+        {
+            "term": "Hubble's Law",
+            "definition": "The recessional velocity of distance galaxies is directly proportional to their distance from us"
+        },
+        {
+            "term": "Light Year",
+            "definition": "The distance travelled by light in a vacuum in 1 year. 1LY=9.5x10^15m"
+        },
+        {
+            "term": "Parsec",
+            "definition": "Distance at which 1AU subtends an angle of 1 arcsecond. 1pc=3.1x10^16m"
+        }
+    ],
+    "Medical Imaging": [
+        {
+            "term": "Acoustic Impedance Matching",
+            "definition": "This occurs when the acoustic impedances of two media are similar/identical"
+        },
+        {
+            "term": "Compton Effect",
+            "definition": "The interaction of an X-ray photon with an orbital electron in an atom resulting in the electron being ejected from the atom and the X-ray photon being scattered at a lower energy"
+        },
+        {
+            "term": "Doppler Effect",
+            "definition": "The change in frequency/wavelength of a wave as detected by a received in relative motion to the source"
+        },
+        {
+            "term": "Half-value thickness",
+            "definition": "The thickness (of a particular material) needed to reduce the intensity of X-rays of a specific energy to one half of its original value"
+        },
+        {
+            "term": "Pair Production",
+            "definition": "The interaction of an X-ray photon with the nucleus of an atom resulting in the energy of the photon producing an electron-positron pair"
+        },
+        {
+            "term": "Piezoelectric Effect",
+            "definition": "The application of potential difference across a material/crystal, causing an expansion/contraction"
+        },
+        {
+            "term": "Photoelectric Effect",
+            "definition": "The interaction of an X-ray photon with an orbital electron in an atom resulting in the photon being completely absorbed by the electron which is then ejected from atom"
+        }
+    ]
+}

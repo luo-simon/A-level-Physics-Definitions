@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Style sheet -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    
+    <title>JAPB's Physics Definitions</title>
+</head>
+<body>
+    <div class="container-fluid" style="background-color: #001844;">
+        <div class="container text-center">
+            <h1 class="display-3 fw-normal p-5">japb's fisiks definitions</h1>
+            <form class="input-group mb-4 ms-5 ps-5" id="searchTerms">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Term</span>
+                </div>
+                <input type="text" id="pokemon" class="form-control" placeholder="not implemented yet :/ work in proggers">
+                <div class="input-group-append">
+                    <input class="btn btn-outline-light" id="submitbtn" type="submit" value="Search">
+                </div>
+            </form>
+            <div class="text-center">
+                <a href="#all"><button class="btn btn-outline-light mb-4" id="viewAll">View all terms</button></a>
+            </div>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="container" id="outputAll">
+        <!-- data loaded from json -->
+    </div>
+
+    <footer class="text-center">
+        <p><small><em>Made by Simon<br>Terms & Definitions &copy; JAPB (just kidding.)</em></small></p>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/gh/mathusummut/confetti.js/confetti.min.js"></script>
+    <script>confetti.start(1000)</script>
+    <script language="JavaScript" type="text/javascript" src="script.js"></script>
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+</body>
+</html>
