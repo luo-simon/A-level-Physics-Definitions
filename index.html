@@ -35,9 +35,17 @@
             <label class="btn btn-outline-light" for="darkSwitch"><i class="fas fa-moon"></i></label>
         </div>
     </div>
-    <br>
-    <h2 class="text-center">\(\text{Big Table}\)</h2>
-    <br>
+    <div class="container pt-3 position-relative">
+        <h2 class="text-center">\(\text{Big Table}\)</h2>
+        <div class="dropdown position-absolute" style="top:20px;right:10px;">
+            <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fas fa-filter"></i>
+            </button>
+            <ul class="dropdown-menu checkbox-menu" id="filter" aria-labelledby="dropdownMenuButton">
+                <!-- Topic checkboxes loaded from json-->
+            </ul>
+        </div>
+    </div>
     <div class="container" >
         <table class="table table-hover" id="myTable">
         <thead>
