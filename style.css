@@ -47,3 +47,9 @@ h1 {
 .checkbox-menu li.active label:focus {
   background-color: #b8b8ff;
 }
+
+.dropdown-menu-center {
+  left: 50% !important;
+  right: auto !important;
+  transform: translate(-90%, 10%) !important;
+}
