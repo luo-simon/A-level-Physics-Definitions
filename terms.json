@@ -616,7 +616,7 @@
         },
         {
             "term": "Doppler Effect",
-            "definition": "The change in frequency/wavelength of a wave as detected by a received in relative motion to a source"
+            "definition": "The change in frequency/wavelength of a wave as detected by a receiver in relative motion to a source"
         },
         {
             "term": "Hubble's Law",
@@ -642,7 +642,7 @@
         },
         {
             "term": "Doppler Effect",
-            "definition": "The change in frequency/wavelength of a wave as detected by a received in relative motion to the source"
+            "definition": "The change in frequency/wavelength of a wave as detected by a receiver in relative motion to the source"
         },
         {
             "term": "Half-value thickness",
