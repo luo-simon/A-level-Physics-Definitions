@@ -20,3 +20,8 @@
 [data-theme="dark"] .navy-bg {
   background-color: #1d2125 !important;
 }
+
+[data-theme="dark"] .input-bg {
+  background-color: #3e4349 !important;
+  color: #a8b6d1 !important;
+}
