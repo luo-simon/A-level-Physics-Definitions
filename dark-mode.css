@@ -25,3 +25,11 @@
   background-color: #3e4349 !important;
   color: #a8b6d1 !important;
 }
+
+[data-theme="dark"] .checkbox-menu {
+  background-color: #212224 !important;
+}
+
+[data-theme="dark"] .checkbox-menu li label {
+  color: #a8b6d1 !important;
+}
