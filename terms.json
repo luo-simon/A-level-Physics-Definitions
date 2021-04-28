@@ -165,58 +165,6 @@
         {
             "term": "Young modulus",
             "definition": "The ratio of tensile stress to tensile strain when Hooke's Law is obeyed"
-        },
-        {
-            "term": "Electricity",
-            "definition": ""
-        },
-        {
-            "term": "Electromotive force",
-            "definition": "Electrical energy transformed from other forms per unit charge"
-        },
-        {
-            "term": "Electron volt (eV)",
-            "definition": "The energy acquired by an electron accelerated through a p.d. of 1V"
-        },
-        {
-            "term": "Mean Drift Velocity",
-            "definition": "The average displacement travelled by the electrons along the wire per unit time opposite to the direction of conventional current flow"
-        },
-        {
-            "term": "Internal resistance",
-            "definition": "The loss of voltage in the battery per unit current. The resistance of the internal components of a battery."
-        },
-        {
-            "term": "Kilowatt-hour",
-            "definition": "The energy transferred when a machine with a power of 1kW operates for a time of 1 hour"
-        },
-        {
-            "term": "Kirchoff's First Law",
-            "definition": "The total current into a junction equals the total current out (charge is conserved)"
-        },
-        {
-            "term": "Kirchoff's Second Law",
-            "definition": "The sum of e.m.f.s equals the sum of the p.d.s around a closed loop in a circuit (energy is conserved)"
-        },
-        {
-            "term": "Ohm's Law",
-            "definition": "For a conductor at constant temperature, the current flowing through the conductor is directly proportional to the potential difference across it"
-        },
-        {
-            "term": "Potential difference",
-            "definition": "The energy transferred per unit charge from electrical to other forms"
-        },
-        {
-            "term": "Power",
-            "definition": "Energy transferred per unit time"
-        },
-        {
-            "term": "Resistance",
-            "definition": "Potential difference/current"
-        },
-        {
-            "term": "Resistivity",
-            "definition": "(Resistance x Cross-sectional Area)/Length of wire"
         }
     ],
     "Electricity": [
